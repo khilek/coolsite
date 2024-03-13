@@ -14,8 +14,6 @@ h1 {
   margin-top: 0;
 }
 
-
-
 h5 {
   color: var(--title);
 }
@@ -33,6 +31,13 @@ footer>section {
   padding: 10px;
 }
 
+button {
+  background-color: #324ac7;
+  cursor: pointer;
+
+}
+
+
 .section-padding {
   padding: 40px;
 }
@@ -40,7 +45,6 @@ footer>section {
 .underline {
   text-decoration: underline;
 }
-
 
 .bg-grey {
   background-color: grey;
@@ -58,7 +62,9 @@ footer>section {
   width: 75%;
 }
 
-.nav-links>a {}
+.nav-links>a {
+  margin: 10px;
+}
 
 
 .d-flex {
