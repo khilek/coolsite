@@ -46,6 +46,11 @@ button {
   text-decoration: underline;
 }
 
+.no-underline {
+  text-decoration: none;
+}
+
+
 .bg-grey {
   background-color: grey;
 }
